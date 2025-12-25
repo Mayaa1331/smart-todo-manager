@@ -1,6 +1,8 @@
 # Smart To-Do Manager (CLI)
 
-A simple command-line To-Do application written in Python.
+This project is a command-line based To-Do application written in Python.
+It allows users to add, view, complete, and delete tasks, while persisting data using file handling.
+The project demonstrates core Python concepts such as functions, loops, conditional statements, and working with files, as well as basic Git/GitHub workflow.
 
 ## Features
 - Add new tasks
